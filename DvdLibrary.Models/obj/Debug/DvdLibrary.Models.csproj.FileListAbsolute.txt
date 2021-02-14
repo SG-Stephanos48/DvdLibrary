@@ -1,0 +1,6 @@
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Models\bin\Debug\DvdLibrary.Models.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Models\bin\Debug\DvdLibrary.Models.pdb
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Models\obj\Debug\DvdLibrary.Models.pdb

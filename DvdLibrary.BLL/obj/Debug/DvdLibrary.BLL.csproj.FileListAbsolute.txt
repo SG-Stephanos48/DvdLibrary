@@ -1,0 +1,11 @@
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\obj\Debug\DvdLibrary.BLL.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\obj\Debug\DvdLibrary.BLL.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\bin\Debug\DvdLibrary.BLL.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\bin\Debug\DvdLibrary.BLL.pdb
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\bin\Debug\DvdLibrary.Data.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\bin\Debug\DvdLibrary.Models.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\bin\Debug\DvdLibrary.Data.pdb
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\bin\Debug\DvdLibrary.Models.pdb
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\obj\Debug\DvdLibrary.BLL.csproj.CopyComplete
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\obj\Debug\DvdLibrary.BLL.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.BLL\obj\Debug\DvdLibrary.BLL.pdb

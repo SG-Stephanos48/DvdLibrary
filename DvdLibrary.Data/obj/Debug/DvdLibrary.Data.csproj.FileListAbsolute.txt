@@ -1,0 +1,16 @@
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\DvdLibrary.Data.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\DvdLibrary.Data.pdb
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\Dapper.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\DvdLibrary.Models.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\DvdLibrary.Models.pdb
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\Dapper.xml
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.csprojAssemblyReference.cache
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.csproj.CoreCompileInputs.cache
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.csproj.CopyComplete
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\obj\Debug\DvdLibrary.Data.pdb
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\DvdLibrary.Data.dll.config
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\EntityFramework.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\EntityFramework.xml
+C:\Users\steph\source\repos\DvdLibrary1\DvdLibrary\DvdLibrary.Data\bin\Debug\EntityFramework.SqlServer.xml
