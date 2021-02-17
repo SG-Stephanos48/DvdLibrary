@@ -23,6 +23,7 @@ namespace DvdLibrary.Data.EF
         {
             var dvd = db.Dvds.FirstOrDefault(c => c.DvdId == dvdId);
             db.Dvds.Remove(dvd);
+            db.SaveChanges();
         }
 
         public List<Dvd> GetAll()
